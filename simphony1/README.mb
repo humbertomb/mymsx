@@ -1,7 +1,7 @@
 Simphony
 
 This is a programa I submitted to the 'II Concurso Nacional de Programación MSX' (2nd National MSX Programming 
-Contest) hosted by Sony, in which I finished in the third position. The programm is mostly coded in Z80 assembler,
+Contest) hosted by Sony in 1987, in which I finished in the third position. The programm is mostly coded in Z80 assembler,
 except a very small BASIC program loader.
 
 The source files have been editing with Geany, and the compiled code has been obatained with Z80 Assembler Glass
