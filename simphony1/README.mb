@@ -1,2 +1,7 @@
 Simphony
 
+This is a programa I submitted to the 'II Concurso Nacional de Programación MSX' (2nd National MSX Programming Contest) hosted by Sony, in which I finished in the third position.
+
+The source files have been editing with Geany, and the compiled code has been obatained with Z80 Assembler Glass
+
+If you want to try it, either load SIMPHONY.DSK into the OpenMSX emulator, or copy SIMPHONY.BAS, SIMPHONY.BIN and SIMPHONY.SC2 to your MSX computer (i.e. in a 3.5" disk). In orther to excute it, from the MSX-DOS prompt type 'BASIC SIMPHONY.BAS'
