@@ -12,4 +12,4 @@ I have packed the code in several forlders, one for each interesting program. Th
 - '.BIN' binary encoded assembler executable file
 - '.COM' MSX-DOS encoded assembler executable file
 
-Currently, I am have some fun not only recovering these old programs, but also modifying them and even creating new ones. Check here for periodic updates.
+Currently, I am having some fun not only recovering these old programs, but also modifying them and even creating new ones. Check here for periodic updates.
