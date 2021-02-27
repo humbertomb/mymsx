@@ -47,5 +47,11 @@ I finally had a code of 2.1 Kb, in 10 lines of BASIC, with standard ASCII charac
 
 You are a top-notch archer in the <I>"Outdoor Archery World Series. Moving Target"</I>. You throw an arrow by pressing the space bar, and cannot throw a new one until it either makes a hit or a fail. The target moves so you have to carefully synchronize the arrow throwing with the target movement. The target speed gets increasing with each hit. You get points for each hit depending of how close the arrow gets to the target center. You are allowed a maximum of 3 failures, in which case the competition finishes and you get your final score. To start a new game hold the space bar for more than one second.
 
-Are you ready? Can you make more than one hundred points? Try it !!!
+Are you ready? Can you make more than one hundred points? Try it here online in <A HREF="https://webmsx.org">WebMSX</A>
+
+Download the file <I>archer10.dsk</I> and drag&drop it on the blue console of WebMSX. A pop up window appears and select <I>Dive A</I>. Then the simulator loads the disk and it is ready to accept commands. Then type:
+
+<TT>RUN "ARCHER10.BAS"</TT>
+
+Enjoy playing!!
 
