@@ -37,7 +37,7 @@ The state of the game is coded using the following variables:
 <LI><B>X</B> (Integer): horizontal position of the arrow in pixels. Varies in the 200 .. 22 range</LI>
 <LI><B>G</B> (Integer): total score achieved</LI>
 <LI><B>F</B> (Integer): number of fails</LI>
-<LI><B>H</B> (Integer): score of the last hit. Computed as a linear distance between the arrow y position and the target y position</LI>
+<LI><B>H</B> (Integer): score of the last hit. Computed as a linear distance between the arrow <I>y</I> position and the target <I>y</I> position</LI>
 <LI><B>B</B> (Integer): state variable representing whether the arrow is moving (B=1) or not (B=0)</LI>
 </UL>
 
