@@ -53,5 +53,7 @@ Download the file <I>archer10.dsk</I> and drag&drop it on the blue console of We
 
 <TT>RUN "ARCHER10.BAS"</TT>
 
+The game has sound, so remember to enable audio in your computer.
+
 Enjoy playing!!
 
