@@ -53,7 +53,12 @@ Download the file <I>archer10.dsk</I> and drag&drop it on the blue console of We
 
 <TT>RUN "ARCHER10.BAS"</TT>
 
+Too complex? 
+
+I have prepared a web page which automatically loads and executes the program in WebMSX. <A HREF="http://giia.inf.um.es/storage/archer10.html">Follow this link to play online</A>
+
 The game has sound, so remember to enable audio in your computer.
 
 Enjoy playing!!
+
 
