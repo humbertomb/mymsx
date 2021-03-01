@@ -49,7 +49,7 @@ You are a top-notch archer in the <I>"Outdoor Archery World Series. Moving Targe
 
 Are you ready? Can you make more than one hundred points?
 
-Download the file <I>archer10.dsk</I> and drag&drop it on the blue console of <A HREF="https://webmsx.org">WebMSX</A> (a nice application by Paulo Augusto Peccin). A pop up window appears and select <I>Dive A</I>. Then the simulator loads the disk and it is ready to accept commands. Then type:
+Download the file <I>archer10.dsk</I> and drag&drop it on the blue console of <A HREF="https://webmsx.org">WebMSX</A> (a nice application by Paulo Augusto Peccin). A pop up window appears and select <I>Drive A</I>. Then the simulator loads the disk and it is ready to accept commands. Then type:
 
 <TT>RUN "ARCHER10.BAS"</TT>
 
