@@ -1,0 +1,747 @@
+{
+  'patt': [
+    {
+      'pixmap': [
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          true,
+          false,
+          false,
+          true,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false
+        ],
+        [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          true,
+          true,
+          true,
+          false,
+          true,
+          false,
+          true,
+          false,
+          true,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true
+        ],
+        [
+          false,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          true,
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ]
+      ],
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    },
+    {
+      'type': '0'
+    }
+  ],
+  'col': [
+    {
+      'ink': 12,
+      'paper': 0
+    },
+    {
+      'ink': 9,
+      'paper': 0
+    },
+    {
+      'ink': 12,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 15,
+      'paper': 0
+    },
+    {
+      'ink': 12,
+      'paper': 0
+    },
+    {
+      'ink': 8,
+      'paper': 0
+    },
+    {
+      'ink': 8,
+      'paper': 0
+    },
+    {
+      'ink': 8,
+      'paper': 0
+    },
+    {
+      'ink': 8,
+      'paper': 0
+    },
+    {
+      'ink': 13,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    },
+    {
+      'ink': 1,
+      'paper': 0
+    }
+  ]
+}
+
+
+
