@@ -2,8 +2,7 @@
 
 Last year I presented a program to the 10th Edition of BASIC 10 Liner Contest, and the experience was very interesting and encouraging. The main idea is that you develop a game in BASIC with no more than 10 lines of code for 8 bit legacy computers. There are different categories depending on the maximum number of characters per line allowed. After I got notice of the announcement of the 11th Edition of BASIC 10 Liner Contest, I decided to participate, this time with a challenging and technically difficult game (at least for me :-). In this post I will describe my submission to the EXTREME-256 category for this year edition (2022), which I have named Dimens10.
 
-
-
+!(/assets/images/electrocat.png)
 
 <b>The idea</b>
 
@@ -115,10 +114,8 @@ The state of the game is coded using the following variables:
 
 Most of the logic of the game is pretty straightforward. They only tricky part is the movement of the sprite. Because the scroll takes some time, the amount added or subtracted to U! and W! must take into account if the maze is scrolling. If the cursor keys are just up or down (S=1 or S=5) there is only vertical movement and W! is increased or decreased by 0.75 pixels. In other case W! is increased or decreased by 4 pixels. If the horizontal cursor keys are pressed (alone or in combination with the vertical ones) U! is increased or decreased by 1 pixel only if the maze is at the beginning (X=1) or the end (X=93). This code is shown below.
 
-10 S=STICK(0):IFS>1ANDS<5ANDX<93ANDU!>120THENX=X+1:F=1     
-ELSEIFS<9ANDS>5ANDX>1ANDU!<132THENX=X-1:F=1                
-20 U!=U!-1*(S>1ANDS<5AND((U!<128ANDX=1)OR(U!<220ANDX=93))) 
-+1*(S<9ANDS>5AND((U!>3ANDX=1)OR(U!>128ANDX=93)))           
+10 S=STICK(0):IFS>1ANDS<5ANDX<93ANDU!>120THENX=X+1:F=1ELSEIFS<9ANDS>5ANDX>1ANDU!<132THENX=X-1:F=1                
+20 U!=U!-1*(S>1ANDS<5AND((U!<128ANDX=1)OR(U!<220ANDX=93)))+1*(S<9ANDS>5AND((U!>3ANDX=1)OR(U!>128ANDX=93)))           
 30 W!=W!-4*(S=4ORS=6)-0.75*(S=5)+4*(S=2ORS=8)+0.75*(S=1).  
 40 PUT SPRITE 0, (U!,W!), 12                               
 
@@ -142,7 +139,7 @@ Download the file dimens10.dsk from GitHub and drag&drop it on the blue console 
 
 Too complex? 
 
-I have prepared a web page which automatically loads and executes the program in WebMSX. Follow this link to play online
+I have prepared a web page which automatically loads and executes the program in WebMSX. [Follow this link to play online](https://giia.inf.um.es/storage/archer10.html)
 
 Enjoy playing!!
 
